@@ -1,30 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Krishnan K</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **a MERN Project**
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **full stack projects**
-
-- 🤝 I’m looking for help with **career development and internships**
-
-- 👨‍💻 All of my projects are available at [https://arunkrish.vercel.app/](https://arunkrish.vercel.app/)
-
-- 📝 I regularly write articles on [https://dev.to/arunkrish11](https://dev.to/arunkrish11)
-
-- 💬 Ask me about **mongodb, react, express, nodejs**
-
-- 📫 How to reach me **arunkrishnank47@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/arunkrish11/](https://www.linkedin.com/in/arunkrish11/)
-
-- ⚡ Fun fact **I'm studying civil engineering**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arunkrish11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunkrish11" height="30" width="40" /></a>
