@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://dev.to/arunkrish11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunkrish11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arunkrish11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunkrish11" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/krish4tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krish4tech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@wizokrishtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wizokrishtech" height="30" width="40" /></a>
 <a href="https://discord.gg/kcfrzdYu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kcfrzdYu" height="30" width="40" /></a>
 </p>
 
